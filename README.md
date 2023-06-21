@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ivan Abaca</h1>
-<h3 align="center">Student of computer enginnering in UNLAM.</h3>
-
+<h3 align="left">Student of computer enginnering in UNLAM.</h3>
+<h3 align="left">I'm just a beginner growing up</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ivanabaca&label=Profile%20views&color=0e75b6&style=flat" alt="ivanabaca" /> </p>
 
 - 🌱 I’m currently learning **C# and C**
