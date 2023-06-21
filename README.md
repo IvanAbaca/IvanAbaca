@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi 👋, I'm Iván
 
-<!--
-**IvanAbaca/IvanAbaca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Just a beginner growing up.
+Student of computer enginnering in UNLAM.
 
-Here are some ideas to get you started:
+Programming languages: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 😄 Pronouns: He/Him
+- 🌱 I’m currently learning C# (POO) and C (structured programming)
+- 📫 How to reach me:
+  https://www.linkedin.com/in/iv%C3%A1n-abaca-99605a194/
+  https://platzi.com/p/ivanabaca/
+- ⚡ Fun fact: The programming language Python is named after the British television show "Monty Python's Flying Circus" and not the snake.
+  
