@@ -3,7 +3,7 @@
 Just a beginner growing up.
 Student of computer enginnering in UNLAM.
 
-Programming languages: [![C.jpg]([https://i.postimg.cc/JnxYsF6t/C.jpg)](https://postimg.cc/0M603Vqq](https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg))
+Programming languages: C# - Java - C - C++
 
 - 😄 Pronouns: He/Him
 - 🌱 I’m currently learning C# (POO) and C (structured programming)
