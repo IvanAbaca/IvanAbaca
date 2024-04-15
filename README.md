@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ivanabaca&label=Profile%20views&color=0e75b6&style=flat" alt="ivanabaca" /> </p>
 
-- 🌱 I’m currently learning **C# and C**
+- 🌱 I’m currently learning **Java**
 
 - 📫 How to reach me **ivanfabrizioabaca@gmail.com**
 
