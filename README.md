@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Ivan Abaca</h1>
+<h1 align="center">Hi, I'm Ivan Abaca</h1>
 <h3 align="center">Student of computer enginnering in UNLAM.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ivanabaca&label=Profile%20views&color=0e75b6&style=flat" alt="ivanabaca" /> </p>
 
 - 🌱 I’m currently learning **Java**
 
-- 📫 How to reach me **ivanfabrizioabaca@gmail.com**
+- 📫 How to reach me **iabaca@alumno.unlam.edu.ar**
 
 - ⚡ Fun fact **The programming language Python is named after the British television show "Monty Python's Flying Circus" and not the snake.**
 
